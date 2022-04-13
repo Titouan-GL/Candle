@@ -2,7 +2,7 @@
 
 ## What it is
 
-Candle is a small but difficult platformer game developped with Python and Pyagme, in which you must travel through the levels in order to fight a boss.
+Candle is a small but difficult platformer game developped with Python and Pyagme when I was 16 y/o, in which you must travel through the levels in order to fight a boss.
 there are currently 2 bosses and 2 levels, a 3rd boss is probably coming, so the game is not finished.
 
 ## How to play
