@@ -24,7 +24,7 @@ window = pygame.display.set_mode((WINDOWWIDTH,WINDOWHEIGHT), DOUBLEBUF)
 pygame.display.set_caption("CANDLE")
 player_x = 700
 player_y = 400
-level = 2
+level = 1
 menu = 1
 #bearer.x = -5000
 #bearer.y = -1200
