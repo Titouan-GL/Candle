@@ -18,3 +18,5 @@ the key "e" can trigger a few actions and "escape" can pause the game
 
 there is no saves for now, if you quit the game you lose your progression.
 the game also feature an easy mode, which grant you 2 additionnal health (which you're probably going to need if you don't want to spend half an hour on a boss)
+
+Video available at : https://studio.youtube.com/video/d_uX_aUMGjw/edit
